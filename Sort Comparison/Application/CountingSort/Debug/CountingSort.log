@@ -1,0 +1,4 @@
+﻿  CountingSort.cpp
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\2 module\Comparison\Application\CountingSort\CountingSort.cpp(7,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\2 module\Comparison\Application\CountingSort\CountingSort.cpp(22,26): warning C4018: '<': signed/unsigned mismatch
+  CountingSort.vcxproj -> C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\2 module\Comparison\Application\Debug\CountingSort.exe

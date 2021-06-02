@@ -1,0 +1,8 @@
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\2 module\TestConfigurer\DataCollector\bin\Debug\DataCollector.exe.config
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\2 module\TestConfigurer\DataCollector\bin\Debug\DataCollector.exe
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\2 module\TestConfigurer\DataCollector\bin\Debug\DataCollector.pdb
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\2 module\TestConfigurer\DataCollector\obj\Debug\DataCollector.csprojAssemblyReference.cache
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\2 module\TestConfigurer\DataCollector\obj\Debug\DataCollector.csproj.ResolveComReference.cache
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\2 module\TestConfigurer\DataCollector\obj\Debug\DataCollector.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\2 module\TestConfigurer\DataCollector\obj\Debug\DataCollector.exe
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\2 module\TestConfigurer\DataCollector\obj\Debug\DataCollector.pdb
