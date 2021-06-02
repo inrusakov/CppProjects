@@ -1,0 +1,7 @@
+﻿  Bloom.cpp
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\1 module\Bloom filter\Bloom\Bloom\bloom_filter.hpp(194,37): warning C4244: аргумент: преобразование "unsigned __int64" в "const unsigned int", возможна потеря данных
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\1 module\Bloom filter\Bloom\Bloom\bloom_filter.hpp(683,22): warning C4244: аргумент: преобразование "const unsigned __int64" в "const unsigned int", возможна потеря данных
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\1 module\Bloom filter\Bloom\Bloom\bloom_filter.hpp(685,58): warning C4244: аргумент: преобразование "const unsigned __int64" в "const int", возможна потеря данных
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\1 module\Bloom filter\Bloom\Bloom\bloom_filter.hpp(689,65): warning C4244: аргумент: преобразование "unsigned __int64" в "const int", возможна потеря данных
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\1 module\Bloom filter\Bloom\Bloom\bloom_filter.hpp(690,65): warning C4244: аргумент: преобразование "unsigned __int64" в "const int", возможна потеря данных
+  Bloom.vcxproj -> C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\1 module\Bloom filter\Bloom\Debug\Bloom.exe
