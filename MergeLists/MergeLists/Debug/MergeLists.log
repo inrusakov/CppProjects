@@ -1,0 +1,4 @@
+﻿  MergeLists.cpp
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\3 module\6 Contest\MergeLists\MergeLists\MergeLists.cpp(69,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\3 module\6 Contest\MergeLists\MergeLists\MergeLists.cpp(74,23): warning C4018: '<': signed/unsigned mismatch
+  MergeLists.vcxproj -> C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\3 module\6 Contest\MergeLists\Debug\MergeLists.exe
